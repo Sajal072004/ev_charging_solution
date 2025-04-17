@@ -659,7 +659,7 @@ export default function Home() {
               },
               {
                 name: "Anjali",
-                role: "Ride-Share Driver",
+                role: "Environmentally Conscious Parent",
                 image: "/user_placeholder.png",
                 quote: "The real-time updates and smart navigation have saved me countless hours. I can plan my routes efficiently and maximize my earnings while keeping my EV charged."
               },
