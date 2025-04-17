@@ -652,19 +652,19 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               {
-                name: "Priya K.",
+                name: "Ramesh",
                 role: "Daily Commuter",
                 image: "/user_placeholder.png",
                 quote: "Finding available charging stations used to be a daily struggle. Now I can reserve slots in advance and never worry about waiting in line again!"
               },
               {
-                name: "Rahul S.",
+                name: "Anjali",
                 role: "Ride-Share Driver",
                 image: "/user_placeholder.png",
                 quote: "The real-time updates and smart navigation have saved me countless hours. I can plan my routes efficiently and maximize my earnings while keeping my EV charged."
               },
               {
-                name: "Meera T.",
+                name: "Vikram",
                 role: "Station Operator",
                 image: "/user_placeholder.png",
                 quote: "The operator dashboard has transformed how we manage our stations. User complaints are down 70% and our station utilization has increased by 45%."
